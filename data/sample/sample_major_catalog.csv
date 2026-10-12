@@ -1,0 +1,9 @@
+major_code,major_name,discipline_category,major_class,duration,degree,is_controlled,is_special,source,updated_at
+M001,智能工程（sample）,工学,自动化类,四年,工学,false,false,sample/mock,2026-06-21
+M002,应用数据管理（sample）,管理学,管理科学与工程类,四年,管理学,false,false,sample/mock,2026-06-21
+M003,视觉工程（sample）,工学,电子信息类,四年,工学,false,false,sample/mock,2026-06-21
+M004,国际商务（sample）,管理学,工商管理类,四年,管理学,false,false,sample/mock,2026-06-21
+M005,智能制造技术（sample）,装备制造,机电设备类,三年,无,false,false,sample/mock,2026-06-21
+M006,医学检验技术（sample）,医学,医学技术类,四年,理学,false,false,sample/mock,2026-06-21
+M007,未来技术（sample）,工学,交叉工程类,四年,工学,false,true,sample/mock,2026-06-21
+M008,历史研究（sample）,历史学,历史学类,四年,历史学,false,false,sample/mock,2026-06-21

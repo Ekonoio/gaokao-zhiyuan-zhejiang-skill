@@ -1,0 +1,25 @@
+project:
+  province: 浙江
+  category: 普通类
+  application_stage: 二段
+  default_exam_year: 2026
+  historical_years: [2025, 2024, 2023]
+  default_output_dir: outputs
+candidate:
+  score: 460
+  original_rank: 220000
+  subjects: [思想政治, 历史, 地理]
+  gender: 男
+  hearing_status: 待确认
+  undergraduate_sprint_only: true
+volunteer:
+  default_count: 80
+  max_count: 80
+  default_ratio: 1:2:1
+data:
+  processed_dir: data/processed
+  raw_dir: data/raw
+  sample_dir: data/sample
+privacy:
+  local_only: true
+  collect_sensitive_identity: false

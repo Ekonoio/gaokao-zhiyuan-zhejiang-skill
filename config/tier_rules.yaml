@@ -1,0 +1,15 @@
+tier_thresholds:
+  safe_gap_min: 25000
+  steady_gap_min: 10000
+  sprint_gap_min: -5000
+  large_plan_drop_ratio: -0.30
+  min_complete_history_years: 2
+  missing_history_tier: 冲
+  forced_review_not_low_risk: true
+sorting:
+  tier_order: [冲, 稳, 保]
+  gap_reference_year: 2025
+  missing_gap_last: true
+volunteer:
+  default_count: 80
+  max_count: 80

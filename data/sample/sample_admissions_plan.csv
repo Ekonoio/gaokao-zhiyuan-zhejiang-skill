@@ -1,0 +1,11 @@
+year,province,batch,application_stage,school_code,school_name,major_code,major_name,major_group,plan_count,tuition,duration,campus,city,subject_requirement,foreign_language_requirement,single_subject_requirement,gender_requirement,medical_requirement,remarks,is_public,is_private,is_sino_foreign,degree_level,plan_status,source_access,source_file,source_url,updated_at
+2026,浙江,普通类二段,二段,MOCK001,MOCK浙江样例大学A,M001,智能工程（sample）,工科,30,6000,四年,主校区,杭州,物理+化学,,,,,sample/mock物化本科,true,false,false,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK002,MOCK浙江样例学院B,M002,应用数据管理（sample）,管理,25,18000,四年,滨海校区,宁波,不限,,,,,sample/mock二段本科,true,false,false,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK003,MOCK民办样例学院C,M003,文化传播（sample）,人文,12,42000,四年,东校区,温州,历史,,,,,sample/mock民办本科,false,true,false,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK004,MOCK合作样例大学D,M004,国际商务（sample）,管理,18,68000,四年,国际校区,杭州,不限,英语,,,,sample/mock中外合作本科,true,false,true,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK005,MOCK职业样例学院E,M005,智能制造技术（sample）,工科,60,9000,三年,高职校区,绍兴,不限,,,,,sample/mock专科,true,false,false,专科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK006,MOCK医学样例学院F,M006,医学检验技术（sample）,医学,20,7000,四年,北校区,杭州,物理+化学,,,,色弱限制,sample/mock物化本科,true,false,false,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK007,MOCK新增样例大学G,M007,公共管理（sample）,管理,12,6500,四年,新校区,嘉兴,思想政治,,,,,sample/mock新增本科,true,false,false,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK008,MOCK文科样例大学H,M008,历史研究（sample）,人文,20,5500,四年,主校区,杭州,历史,,,,,sample/mock历史本科,true,false,false,本科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK009,MOCK职业样例学院I,M009,大数据与会计（sample）,财经,50,8000,三年,主校区,金华,不限,,,,,sample/mock专科,true,false,false,专科,可填报,sample/mock,sample/mock,,2026-07-26
+2026,浙江,普通类二段,二段,MOCK010,MOCK职业样例学院J,M010,现代物流管理（sample）,管理,45,7500,三年,主校区,台州,不限,,,,,sample/mock专科,true,false,false,专科,可填报,sample/mock,sample/mock,,2026-07-26

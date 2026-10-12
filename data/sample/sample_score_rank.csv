@@ -1,0 +1,4 @@
+year,province,score,count,cumulative_count,rank_start,rank_end,source_file,source_url,updated_at
+2026,浙江,610,900,32000,31501,32400,sample/mock,,2026-06-21
+2026,浙江,600,1100,42000,41001,42100,sample/mock,,2026-06-21
+2026,浙江,580,1800,60000,58201,60000,sample/mock,,2026-06-21

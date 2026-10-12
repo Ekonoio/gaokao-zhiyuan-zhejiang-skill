@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+.pytest_cache/
+.env
+.env.*
+
+outputs/
+data/raw/*
+!data/raw/README.md
+!data/raw/charter_urls.example.csv
+
+data/processed/*
+!data/processed/README.md

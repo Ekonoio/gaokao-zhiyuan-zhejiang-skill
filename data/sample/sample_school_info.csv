@@ -1,0 +1,9 @@
+school_code,school_name,province,city,school_type,is_public,is_private,is_985,is_211,is_double_first_class,under_department,official_site,admission_site,source,updated_at
+MOCK001,MOCK浙江样例大学A,浙江,杭州,综合,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK002,MOCK浙江样例学院B,浙江,宁波,综合,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK003,MOCK民办样例学院C,浙江,温州,民办,false,true,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK004,MOCK合作样例大学D,浙江,杭州,合作,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK005,MOCK职业样例学院E,浙江,绍兴,高职,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK006,MOCK医学样例学院F,浙江,杭州,医药,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK007,MOCK新增样例大学G,浙江,嘉兴,理工,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21
+MOCK008,MOCK文科样例大学H,浙江,杭州,人文,true,false,false,false,false,sample/mock,,,sample/mock,2026-06-21

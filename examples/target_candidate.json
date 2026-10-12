@@ -1,0 +1,118 @@
+{
+  "source_province": "浙江",
+  "exam_year": 2026,
+  "candidate_category": "普通类",
+  "application_stage": "二段",
+  "score": 460,
+  "rank": 220000,
+  "subjects": [
+    "思想政治",
+    "历史",
+    "地理"
+  ],
+  "gender": "男",
+  "foreign_language": "英语",
+  "target_region": "全国",
+  "only_undergraduate": false,
+  "accept_associate": true,
+  "accept_private": true,
+  "accept_sino_foreign": true,
+  "tuition_limit": 30000,
+  "tuition_hard_cap": true,
+  "accepted_majors": [
+    "会计",
+    "财务",
+    "审计",
+    "税收",
+    "税务",
+    "资产评估",
+    "金融",
+    "财政",
+    "供应链",
+    "物流",
+    "工商管理",
+    "电子商务"
+  ],
+  "rejected_majors": [
+    "马克思主义"
+  ],
+  "transfer_bridge_majors": [
+    "电子商务"
+  ],
+  "preferred_major_families": [
+    "会计学",
+    "财务管理",
+    "审计学",
+    "税收学",
+    "资产评估",
+    "大数据与会计",
+    "大数据与审计",
+    "财税大数据应用"
+  ],
+  "transfer_failure_tolerance": "相近专业可接受",
+  "associate_path": "专升本优先",
+  "excluded_regions": [
+    "新疆",
+    "西藏",
+    "青海",
+    "宁夏",
+    "甘肃",
+    "内蒙古"
+  ],
+  "region_priority_groups": [
+    [
+      "上海",
+      "杭州",
+      "宁波"
+    ],
+    [
+      "浙江"
+    ],
+    [
+      "南京",
+      "苏州"
+    ],
+    [
+      "江苏"
+    ],
+    [
+      "重庆",
+      "合肥",
+      "深圳",
+      "广州"
+    ]
+  ],
+  "major_priority_tokens": [
+    "会计",
+    "审计",
+    "财务",
+    "税",
+    "资产评估",
+    "金融",
+    "财政",
+    "供应链",
+    "物流",
+    "工商管理",
+    "电子商务"
+  ],
+  "public_associate_priority": true,
+  "priority": "本科冲刺>专科稳保",
+  "risk_preference": "保守",
+  "medical_limits": [],
+  "medical_exclusions": [],
+  "hearing_status": "待确认",
+  "hearing_risk_policy": "保留并强提醒",
+  "undergraduate_sprint_only": true,
+  "need_volunteer_table": true,
+  "volunteer_count": 80,
+  "tier_strategy": "1:2:1",
+  "chinese_score": 80,
+  "math_score": 80,
+  "english_score": 85,
+  "politics_score": 65,
+  "history_score": 75,
+  "geography_score": 75,
+  "second_stage_line": 266,
+  "remaining_queue_at_or_above": 12000,
+  "profile_kind": "synthetic_example"
+}
